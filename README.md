@@ -9,4 +9,4 @@ Website ini merupakan platform informasi untuk **Grand Elphira Hotel**, sebuah h
 ### **Teknologi yang Digunakan:**
 - **HTML & CSS**: Untuk struktur halaman dan tampilan visual.
 - **Bootstrap**: Framework responsif yang digunakan untuk memastikan desain modern dan kompatibel di berbagai perangkat.
-- **JavaScript (Opsional)**: Untuk menambahkan interaktivitas dan pengalaman pengguna yang lebih baik.
+- **JavaScript**: Untuk menambahkan interaktivitas dan pengalaman pengguna yang lebih baik.
